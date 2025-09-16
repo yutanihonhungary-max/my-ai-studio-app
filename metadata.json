@@ -1,0 +1,5 @@
+{
+  "name": "AnKiGeNeSiS",
+  "description": "A modern, feature-rich web-based flashcard application designed with an offline-first approach. It features cloud synchronization with Firebase and AI capabilities powered by the Gemini API.",
+  "requestFramePermissions": []
+}
